@@ -1,4 +1,8 @@
-### Hi there 👋
+### Goodness gracious! A new sight to behold!
+
+'sup? Name's Onassis Corona, currently taking up programming as a career 'cause I thought it'd be fun to mess around with code as I usually stick around with my PC all day.
+
+Currently taking up PHP, C#, and Javascript, mostly Back-end stuff.
 
 <!--
 **firstsatellite/firstsatellite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
