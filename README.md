@@ -3,6 +3,7 @@
 'sup? Name's Onassis Corona, currently taking up programming as a career 'cause I thought it'd be fun to mess around with code as I usually stick around with my PC all day.
 
 Currently taking up PHP, C#, and Javascript, mostly Back-end stuff.
+Also have some prowess with SQL code, both SQL Server and MySQL syntaxes.
 
 <!--
 **firstsatellite/firstsatellite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
